@@ -9,6 +9,7 @@ import {
   Link
 } from "react-router-dom";
 import Step3 from './steps/Step3';
+import Result from './steps/Result';
 
 function App() {
   return (
@@ -19,6 +20,7 @@ function App() {
           <Route exact path="/" component={Step1} />
           <Route path="/step2" component={Step2} />
           <Route path="/step3" component={Step3} />
+          <Route path="/result" component={Result} />
 
         </Switch>
       </Router>

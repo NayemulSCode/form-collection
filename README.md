@@ -8,3 +8,8 @@
 7. npm install --save sweetalert2
 8. npm install --save react-dropzone
 
+run frontend type: npm start
+
+## server side 
+
+run  server type: node server.js

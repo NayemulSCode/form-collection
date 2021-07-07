@@ -18,8 +18,8 @@ const Step3 = () => {
     },
   });
   const onSubmit = (data) => {
-    // history.push("./result");
     setValues(data);
+    history.push("/result");
     console.log(data);
   };
 
