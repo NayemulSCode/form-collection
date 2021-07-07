@@ -6,3 +6,5 @@
 5. npm install libphonenumber-js --save
 6. npm install react-confetti
 7. npm install --save sweetalert2
+8. npm install --save react-dropzone
+
